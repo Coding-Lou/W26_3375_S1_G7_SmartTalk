@@ -8,3 +8,5 @@ This is the SmartTalk app.
 **Team mebmber**: Jiayu Lou | 300398003 \
 **Course:** 3375 \
 **Section:** 001
+
+Prototype Figma link : https://www.figma.com/design/Ci4UQEwyQxbWiMJSc5T9Zx/prototype?node-id=0-1&t=UMZtuQ8yDqx8Bfub-1
